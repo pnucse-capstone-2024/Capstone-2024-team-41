@@ -29,6 +29,20 @@ Development of an AI Model for Glaucoma Detection through Deep Learning
 
 #### 2.2. 사용 기술
 
+  |package | version |
+  |--------|---------|
+  | tensorflow | 2.17.0 |
+  | kaggle | 1.6.17 |
+  | keras | 3.5.0 |
+  | numpy | 1.26.4 |
+  | openCV | 4.10.0 |
+  | scikit-image| 0.22.0 |
+  | scikit-learn | 1.2.2 |
+  | xgboost | 2.1.1 |
+  | mrmr-selection | 0.2.8 | 
+  
+  
+
 ### 3. 설치 및 사용 방법
 - 저장소를 클론합니다.
 - 클론한 저장소에서 preprocess_image.ipynb 파일을 Jupyter Notebook을 통해 실행하려면 다음을 따르세요:
@@ -46,9 +60,13 @@ Development of an AI Model for Glaucoma Detection through Deep Learning
   이후 명령어를 통해 데이터셋을 다운로드할 수 있습니다.
 - 다음으로 Jupyter Notebook을 사용하여 dataset_notebook.ipynb 파일을 실행하세요. 이 노트북은 메타데이터를 참고하여 전처리된 이미지를 건강한 이미지와 질환 있는 이미지로 분류합니다.
 - 다음 단계로, 전처리된 이미지에서 특징을 추출하고 신경망 조합을 사용하여 이미지를 분류하는 CNN 딥러닝 모델을 실행합니다.
+- 
 ### 4. 소개 및 시연 영상
+
 > 프로젝트에 대한 소개와 시연 영상을 넣으세요.
+
 ### 5. 팀 소개
+
 | Name              | Contact Information     | Roles                                                   | 
 |-------------------|-------------------------|---------------------------------------------------------|
 | Nemekhbayar Nomin | sharon.nemhee@gmail.com | 데이터 수집, 특징 추출 알고리즘 구현, 분류 알고리즘 구현    |
