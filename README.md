@@ -1,4 +1,4 @@
-![thumbnail](https://github.com/user-attachments/assets/7914f74d-544a-4641-96f6-e0c6e02fdc20)Development of an AI Model for Glaucoma Detection through Deep Learning
+Development of an AI Model for Glaucoma Detection through Deep Learning
 ### 1. 프로젝트 소개
 
 #### 1.1. 배경 및 필요성
