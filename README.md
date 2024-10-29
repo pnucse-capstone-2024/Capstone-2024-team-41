@@ -1,4 +1,4 @@
-Development of an AI Model for Glaucoma Detection through Deep Learning
+![thumbnail](https://github.com/user-attachments/assets/7914f74d-544a-4641-96f6-e0c6e02fdc20)Development of an AI Model for Glaucoma Detection through Deep Learning
 ### 1. 프로젝트 소개
 
 #### 1.1. 배경 및 필요성
@@ -62,8 +62,9 @@ Development of an AI Model for Glaucoma Detection through Deep Learning
 - 다음 단계로, 전처리된 이미지에서 특징을 추출하고 신경망 조합을 사용하여 이미지를 분류하는 CNN 딥러닝 모델을 실행합니다.
 - 
 ### 4. 소개 및 시연 영상
-
-> 프로젝트에 대한 소개와 시연 영상을 넣으세요.
+<!--[![영상 이름](유튜브 영상 썸네일 URL)](유투브 영상 URL)-->
+[![2024년 전기 졸업과제 41 Octas](![thumbnail](https://github.com/user-attachments/assets/642e1915-e7dc-4353-9fac-59e2cdc9fcab)
+)](https://www.youtube.com/watch?v=wpYf8Kyj2xE)    
 
 ### 5. 팀 소개
 
