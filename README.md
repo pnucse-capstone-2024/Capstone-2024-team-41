@@ -63,8 +63,7 @@ Development of an AI Model for Glaucoma Detection through Deep Learning
 - 
 ### 4. 소개 및 시연 영상
 <!--[![영상 이름](유튜브 영상 썸네일 URL)](유투브 영상 URL)-->
-[![2024년 전기 졸업과제 41 Octas](![thumbnail](https://github.com/user-attachments/assets/642e1915-e7dc-4353-9fac-59e2cdc9fcab)
-)](https://www.youtube.com/watch?v=wpYf8Kyj2xE)    
+[![2024년 전기 졸업과제 41 Octas](![thumbnail](https://img.youtube.com/vi/wpYf8Kyj2xE/0.jpg)](https://www.youtube.com/watch?v=wpYf8Kyj2xE)    
 
 ### 5. 팀 소개
 
